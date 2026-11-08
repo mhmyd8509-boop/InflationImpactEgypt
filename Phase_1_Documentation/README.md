@@ -3,7 +3,6 @@
 
 ## 👥 أعضاء الفريق
 - Mahmoud Hemaid Saeed Obaid Allah (Leader)
-- Shahenda Ibrahim El-Dosoky Mohamed El-Mahdy Mohamed
 - Hadeer Magdy Hanafy Gebril
 - Khloud Mostafa Abdalkader Abdallatif
 - Mohamed Abdelsamad Mohamed
